@@ -51,15 +51,17 @@ File: `data/Mall_Customers.csv`
 ---
 
 ## 📂 Repository Structure
+## 📂 Repository Structure
+
 Retail-Customer-Segmentation-EDA-Python/
-├── data/
-│ └── Mall_Customers.csv
-├── notebooks/
-│ └── mall_customer_segmentation_EDA.ipynb
-├── requirements.txt
-├── LICENSE
+|-- data/
+|   └── Mall_Customers.csv
+|-- notebooks/
+|   └── mall_customer_segmentation_EDA.ipynb
+|-- requirements.txt
+|-- LICENSE
 └── README.md
-├── data/
+
 
 │ └── Mall_Customers.csv
 
