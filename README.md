@@ -53,22 +53,35 @@ File: `data/Mall_Customers.csv`
 ## 📂 Repository Structure
 
 ├── data/
+
 │ └── Mall_Customers.csv
+
 ├── notebooks/
+
 │ └── mall_customer_segmentation_EDA.ipynb
+
 ├── requirements.txt
+
 ├── LICENSE
+
 └── README.md
 
-📌 Key Insights
+## 📌 Key Insights
+
 •	Spending does not correlate strongly with income
+
 •	Younger customers tend to spend more
+
 •	Clear cluster groups formed:
+
   o	High income, high spending
+  
   o	High income, low spending
+  
   o	Low income, high spending
+  
   o	Average consumers
 
-📄 License
+## 📄 License
 
 MIT License — feel free to use and reference.
