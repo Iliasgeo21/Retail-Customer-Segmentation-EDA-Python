@@ -63,6 +63,7 @@ Retail-Customer-Segmentation-EDA-Python/
 └── README.md
 ```
 
+
 ## 📌 Key Insights
 
 •	Spending does not correlate strongly with income
